@@ -108,7 +108,7 @@ A Karma replacement: one web UI for all your Alertmanagers, with sounds, notific
 <a href="https://github.com/SoulKyu?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/SoulKyu?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars&color=1f6feb" alt="Total stars" /></a>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulKyu&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="165" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoulKyu&exclude_repo=pi-agentic-platform&layout=compact&hide_border=true&theme=github_dark&langs_count=6" height="165" alt="Top languages" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00d4aa,50:1f6feb,100:0d1117&section=footer" />
 
